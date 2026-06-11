@@ -1,5 +1,5 @@
 # WEDE5020
 Web Development Project
 
-## Project title
+## Project Title
 NewBorn Essentials
